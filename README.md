@@ -1,7 +1,7 @@
 ### getInsight Introduction
 Get Insight is a series of Jupyter notebooks that allows anyone to get the latest [Mars Weather Insight API](https://mars.nasa.gov/insight/weather/) data from the [Mars Weather Service API](https://api.nasa.gov/) without applying for a NASA API key. These notebooks use the available Demo Key.
 
-All you have to do is clone the notebooks to your local machine, and run them! They also show results right here in Git if you're curious. 
+All you have to do is clone the notebooks to your local machine, and run them! They also show results right here in GitHub if you're curious. 
 
 ### Available Notebooks
 So far the following notebooks are available for anyone to use:
