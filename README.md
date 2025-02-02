@@ -117,8 +117,5 @@ jupyter notebook
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue.
 
-## License
-[Add your license information here]
-
 ## Disclaimer
 This project uses NASA's Mars Weather API demo key. For extensive use, consider obtaining a personal API key from NASA.
